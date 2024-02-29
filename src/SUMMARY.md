@@ -4,7 +4,7 @@
 
 # Princess Story
 
-1. [Summary](princess-story/README.md)
+1. [Summary](princess-story/SUMMARY.md)
 2. [Chapter 1 - Princess Lua](princess-story/chapter-1.md)
 
 
