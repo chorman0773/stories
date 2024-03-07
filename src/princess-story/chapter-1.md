@@ -19,3 +19,14 @@ Upon entering the great hall, the two kings again make a speach, to announce the
 "And to the Kingdom of Solaris, I present my sons, the Princes Adélard and Gabriel, and my daughter, the Princess Selene." As the princess steps out to stand beside her father, I finally get a clear view of her and my breath is immediately taken away. Her jet black hair, blue eyes, and perfect skin. The image in my mind from before could not be compared to the image of her now in my eyes. In this instant, all thoughts of marriage, of the princes, of my father, the King of Ult, all of them fell away. The only thing on my mind was now her, and one simple thought.
 
 Princess Selene. I want *you*. 
+
+
+
+## Copyright
+
+Copyright (C) 2024 Connor Horman
+
+This novel is licensed under the terms of the CC-BY-SA 4.0 License, or, at your option, the CC-BY-NC-SA 4.0 License. See [Copyright Info](../COPYRIGHT.md) for details.
+
+[![CC-BY-SA](../by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+[![CC-BY-NC-SA](../by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
