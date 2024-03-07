@@ -12,3 +12,7 @@
 
 1. [CC-BY-SA](./CC-BY-SA.md)  
 2. [CC-BY-SA-NC](./CC-BY-NC-SA.md)
+
+---
+
+[Copyright Notice](./COPYRIGHT-STUB.md)
