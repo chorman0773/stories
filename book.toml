@@ -5,6 +5,15 @@ multilingual = false
 src = "src"
 title = "Connor Horman's Writing"
 
+[preprocessor.links]
+
+[preprocessor.add-copyright]
+exclude=["COPYRIGHT.md"]
+
+[preprocessor.add-copyright.markdown]
+
+
+[output.markdown]
 
 [output.html]
 
