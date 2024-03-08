@@ -7,7 +7,7 @@ title = "Connor Horman's Writing"
 
 
 [output.html]
-site-url = "stories"
+
 
 [output.epub-fancy]
 optional=true
