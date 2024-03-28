@@ -11,6 +11,5 @@ Genre's: Medieval, Girl's Love
 ## Chapters
 
 - [Chapter 1](chapter-1.md)
-- Chapter 2: TBD
 
 !{#copyright}

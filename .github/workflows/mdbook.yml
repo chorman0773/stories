@@ -37,18 +37,26 @@ jobs:
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install --vers "^${MDBOOK_VERSION}" --no-default-features --features search mdbook
-          cargo install --git https://github.com/chorman0773/mdbook-fiction-tools mdbook-add-copyright
+          cargo install --git https://github.com/chorman0773/mdbook-fiction-tools
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
       - name: Build with mdBook
         env: 
             MDBOOK_output__html__site_url: "/stories/"
+            MDBOOK_output__epub_fancy__file_ids__full_oid: "1.3.6.1.4.1.54569.7"
+            MDBOOK_output__epub_fancy__file_ids__princess_story__oid: "1.3.6.1.4.1.54569.7.1"
         run: mdbook build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./book/html
+      - name: Release epub documents
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "book/epub-fancy/princess-story.epub,book/epub-fancy/connor-hormans-writing.epub"
+          tag: dist-${{ github.sha }}
+          commit: ${{ github.sha }}
 
   # Deployment job
   deploy:
