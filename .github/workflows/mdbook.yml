@@ -44,8 +44,8 @@ jobs:
       - name: Build with mdBook
         env: 
             MDBOOK_output__html__site_url: "/stories/"
-            MDBOOK_output__epub_fancy__file_ids__full_oid: "1.3.6.1.4.1.54569.7"
-            MDBOOK_output__epub_fancy__file_ids__princess_story__oid: "1.3.6.1.4.1.54569.7.1"
+            # MDBOOK_output__epub_fancy__file_ids__full_oid: "1.3.6.1.4.1.54569.7"
+            # MDBOOK_output__epub_fancy__file_ids__princess_story__oid: "1.3.6.1.4.1.54569.7.1"
         run: mdbook build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
