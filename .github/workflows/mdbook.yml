@@ -30,6 +30,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: 0.4.37
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Install mdBook
