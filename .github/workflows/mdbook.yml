@@ -59,6 +59,7 @@ jobs:
           artifacts: "book/epub-fancy/princess-story.epub,book/epub-fancy/connor-hormans-writing.epub"
           tag: dist-${{ github.sha }}
           commit: ${{ github.sha }}
+          name: Dist Build
 
   # Deployment job
   deploy:
