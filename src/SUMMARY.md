@@ -10,6 +10,11 @@
     2. [Chapter 2 - Princess Selene]()
 
 
+# SAO: TODO Title ([T], F/F, F/M) {#sao-sachi-story}
+
+1. [Summary](sao-sachi-story/SUMMARY.md)
+    1. [Chapter 1 - Floor 27](sao-sachi-story/chapter-1.md)
+
 # Copyright Licenses
 
 1. [CC-BY-SA](./CC-BY-SA.md)  
