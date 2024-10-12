@@ -1,4 +1,4 @@
-# Summary
+# SAO: TODO Title ([T], F/F, F/M)
 
 Everyone knows what happens. Kirito makes some friends, dumbass opens a chest, all of his friends get killed by a trap, and Kirito retreats into solo-player abyss. 
 But what if one of them makes it out alive? What ripples happen here?
@@ -10,10 +10,11 @@ Derivative Work is authorized by law, [R.S.C. 1985 C-42, s. 29.1 "Non-commercial
 
 ## Tags
 
-Fandom: Sword Art Online
-Category: F/M, F/F
-Relationships: Kirigaya Kazuto | Kirito/Yuuki Asuna | Asuna, Yuuki Asuna | Asuna/Konno Yuuki | Yuuki
-Characters: Sachi (Sword Art Online), Kirigaya Kazuto | Kirito, Yuuki Asuna | Asuna, 
-
+Fandom: Sword Art Online  
+Rating: T  
+Category: F/M, F/F  
+Relationships: Kirigaya Kazuto | Kirito/Yuuki Asuna | Asuna, Yuuki Asuna | Asuna/Konno Yuuki | Yuuki  
+Characters: Sachi (Sword Art Online), Kirigaya Kazuto | Kirito, Yuuki Asuna | Asuna  
+Freeform Tags:
 
 !{#copyright}
