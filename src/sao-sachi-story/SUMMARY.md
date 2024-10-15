@@ -1,4 +1,4 @@
-# SAO: TODO Title ([T], F/F, F/M)
+# SAO: Sachi's Life ([T], F/F, F/M)
 
 Everyone knows what happens. Kirito makes some friends, dumbass opens a chest, all of his friends get killed by a trap, and Kirito retreats into solo-player abyss. 
 But what if one of them makes it out alive? What ripples happen here?
