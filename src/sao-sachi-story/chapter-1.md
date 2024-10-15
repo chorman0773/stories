@@ -59,5 +59,3 @@ Kirito was shocked at Sachi saying that word, "You knew." Sachi nods and Kirito 
 "Ah, that's fine," Kirito responds, a bit more relaxed, "We should probably do something about Ducker and Tetsuno. A memorial, or something like that." 
 
 Sachi nods and smiles, "I think they'd like that, even if Keita won't be around for it."
-
-!{#copyright}

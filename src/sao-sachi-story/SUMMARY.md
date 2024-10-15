@@ -16,5 +16,3 @@ Category: F/M, F/F
 Relationships: Kirigaya Kazuto | Kirito/Yuuki Asuna | Asuna, Yuuki Asuna | Asuna/Konno Yuuki | Yuuki  
 Characters: Sachi (Sword Art Online), Kirigaya Kazuto | Kirito, Yuuki Asuna | Asuna  
 Freeform Tags:
-
-!{#copyright}
