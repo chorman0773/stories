@@ -5,15 +5,16 @@
 
 # Princess Story ([T], GL) {#princess-story}
 
-1. [Summary](princess-story/SUMMARY.md)
-    1. [Chapter 1 - Princess Lua](princess-story/chapter-1.md)
+1. [Summary](./princess-story/README.md)
+    1. [Chapter 1 - Princess Lua](./princess-story/chapter-1.md)
     2. [Chapter 2 - Princess Selene]()
 
 
 # SAO: Sachi's Life ([T], F/F, F/M) {#sao-sachi-story}
 
-1. [Summary](sao-sachi-story/SUMMARY.md)
-    1. [Chapter 1 - Floor 27](sao-sachi-story/chapter-1.md)
+1. [Summary](./sao-sachi-story/README.md)
+    1. [Chapter 1 - Floor 27](./sao-sachi-story/chapter-1.md)
+    2. [Chapter 2 - Ho Ho Ho Ya Idiot](./sao-sachi-story/chapter-2.md)
 
 # Copyright Licenses
 

@@ -15,4 +15,8 @@ Rating: T
 Category: F/M, F/F  
 Relationships: Kirigaya Kazuto | Kirito/Yuuki Asuna | Asuna, Yuuki Asuna | Asuna/Konno Yuuki | Yuuki  
 Characters: Sachi (Sword Art Online), Kirigaya Kazuto | Kirito, Yuuki Asuna | Asuna  
-Freeform Tags:
+Freeform Tags: No Lesbians Die
+
+## Download
+
+[epub](https://github.com/chorman0773/stories/releases/latest/download/sao-sachi-story.epub)

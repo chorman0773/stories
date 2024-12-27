@@ -12,4 +12,8 @@ Genre's: Medieval, Girl's Love
 
 - [Chapter 1](chapter-1.md)
 
+## Download
+
+[epub](https://github.com/chorman0773/stories/releases/latest/download/princess-story.epub)
+
 !{#copyright}

@@ -56,7 +56,7 @@ jobs:
       - name: Release epub documents
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "book/epub-fancy/princess-story.epub,book/epub-fancy/connor-hormans-writing.epub"
+          artifacts: "book/epub-fancy/*.epub"
           tag: dist-${{ github.sha }}
           commit: ${{ github.sha }}
           name: Dist Build
