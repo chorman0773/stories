@@ -25,3 +25,6 @@ output = ["part", "full"]
 always-include = ["COPYRIGHT.md", "COPYRIGHT-STUB.md"]
 
 [output.epub-fancy.file-ids]
+
+[output.epub-fancy.output-files]
+copyright-licenses = false
