@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: 0.4.43
-      MDBOOK_FICTION_TOOLS_VERSION: b95e1511de4c6e907be12942fc005dff94f364f8
+      MDBOOK_FICTION_TOOLS_VERSION: a71c0f61706e69c1111dedfd87fee95034034529
     permissions:
       contents: write
     steps:
