@@ -1,4 +1,4 @@
-# SAO: Sachi's Life ([T], F/F, F/M)
+# A Certain Happy Ending ([M], F/F, F/M)
 
 Frenda Seveilun sold out ITEM when captured by SCHOOL, only to die at the hands of Mugino. But what if she didn't, and a carefully layed and executed plan succeeds in killing Mugino instead. A snowball of fate from that moment might just turn Academy City itself upside down.
 
