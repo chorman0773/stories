@@ -7,6 +7,8 @@ title = "Connor Horman's Writing"
 
 [preprocessor.links]
 
+[preprocessor.index]
+
 [preprocessor.add-copyright]
 exclude = ["COPYRIGHT.md"]
 
