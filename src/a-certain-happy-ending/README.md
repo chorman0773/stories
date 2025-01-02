@@ -18,6 +18,4 @@ Freeform Tags: Alternate Universe - Canon Divergence, No Lesbians Die, Polyamory
 
 ## Download
 
-*Not Yet Available*
-
-<!-- [epub](https://github.com/chorman0773/stories/releases/latest/download/a-certain-happy-ending.epub) -->
+[epub](https://github.com/chorman0773/stories/releases/latest/download/a-certain-happy-ending.epub)
