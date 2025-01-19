@@ -28,6 +28,11 @@
     - [Chapter 7 - The Beginning of Something Great](a-certain-happy-ending/chapter-7.md)
     - [Chapter 8 - Understanding](a-certain-happy-ending/chapter-8.md)
 
+# Adventures of Shrai Rheal: Book 1 - Clues {#shrai-rheal-book-1}
+
+- [Summary](shrai-rheal/book-1/README.md)
+    - [Chapter 1](shrai-rheal/book-1/chapter-1.md)
+
 # Copyright Licenses
 
 - [CC-BY-SA](CC-BY-SA.md)  
