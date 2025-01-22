@@ -28,22 +28,24 @@ I nodded, "Cancel Precaution, return to stations secure." Richard complied and t
 
 Alyssa responded promptly, "Reactor Control reports spontaneous loss in core pressure. It stabilized after we released the ignition sequence, but failed shortly after."
 
-As the temperature falls below critical levels, I called out "All Clear. Cancel Stations Secure. Analyze records, and bring me a report."
+As the temperature falls below critical levels, I called out, "All Clear. Cancel Stations Secure. Analyze records, and bring me a report."
 
 Richard complies, and the automated message stops repeating, He spoke into the PA, "Cancel All Stations Secure, Situation All Clear. Repeat, Cancel Stations Secure, All Clear. All stations, resume normal operations."
 
-"Reactor to Control" I heard the voice of Mike coming through the intercom.
+"Reactor to Control" I heard the voice of Mike coming through the intercom. Mike was the most senior engineer in the organization, and had been in charge of every reactor test so far. He even was one of the lead designers and engineers that built the thing. If anyone knew what had just happened, he would for sure.
 
-"Situation, Mike," I called out, "What the hell happened."
+"Situation, Mike," I called out, a slight mix of disappointment and irritation in my voice, "What the hell happened."
 
 "Reaction didn't stabilize. Temperature did but only a few trillion particles ended up fusing before they started to repel. We can't use the mixture again, though, it's already getting contaminated by Lithium," He reported.
 
-"Understood. Once the reactor is at safe temps, vent it. I want a full report on my desk tomorrow, Control Out," I called out before closing the connection.
+"Understood. Once the reactor is at safe temps, vent it. Work with Alyssa and your team and find out what exactly went wrong this time. I want a full report on my desk tomorrow, Control Out," I called out before closing the connection.
 
 "Dammit, everything was working, it was perfect this time. We're putting so much of our resources into this," I paused, looking to the others who nod, "Schedule the next trial for one month. It will be the last one, at least for a while. I want it done right this time."
 
-Everyone nods. I call Alyssa up to the command seat, hand her a data tablet which she spent a few minutes reviewing before nodding and I said, "You have command, Alyssa."
+Everyone nods in vehement agreement. I then look at the time and decide it is time to retire to my room, so I began the process of turning over command. I summoned Alyssa to the command chair, who entered a record into the console, and another researcher I didn't know the name of took their place at the RSB console. I handed them a data pad that contained a record of everything that had happened since I took command a few hours ago, as well as the previous logs. Alyssa spent a few minutes reviewing the information contained in the pad. It was as routine a procedure as anything at all that happened at the Facility, this several minute exchange happening many times daily, not just in the Control Centre, but at command stations around the facility. Mike was probably, at this very moment, reviewing the engineering logs with his replacement, so he could retire. After Alyssa finished, they nodded, and I spoke in a commanding tone, both to them and everyone else in the room, "You have Command, Alyssa." 
 
-"I have Command," Alyssa responded to me, and I left the control centre and headed back to my room to go to sleep, remembering everything that happened.
+"I have Command," They responded in the same authorative manner, informing me that they acknowledge the change in command, and informing the rest of the duty personnel of that change.
+
+I left the Control Centre and retired to my room to go to sleep. As I walked, I recalled the events of the test, my brain searching for answers to the scenario. I could only hope that the report from Mike would shed some light on what went wrong, and that it was something that could be fixed. Once I got back to my room, I got straight into bed, and let sleep take me, electing to sort out my thoughts in the morning.
 
 !{#copyright}
